@@ -23,11 +23,11 @@
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
-| Domain     | Primary                                                                                                                                          | Comfortable                                                                                                                                           | Currently Exploring                                                                                                               |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Domain     | Primary                                                                                                                                          |    Comfortable                                                                                                                                  
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Front-end  | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![JSP](https://img.shields.io/badge/JSP-9E7E38?logo=java&logoColor=white) | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)                                                           |
-| Back-end   | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                          |
-| Databases       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                                      | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)                                                                | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000)                                                              |
+| Back-end   | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)                                                        |
+| Databases       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                                      | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)                                                                                                                          
 | DevOps     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)                                            
 </div>
 
@@ -70,6 +70,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
+
 
 
 
