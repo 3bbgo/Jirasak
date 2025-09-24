@@ -9,13 +9,9 @@
   <span style="color: #1E4C9A;">นายจิรศักดิ์ จันทร์ต๊ะริมปิง</span>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Front-end+Developer+🚀;Building+Clean+%26+Efficient+Systems+💡;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Front-end+Developer+🚀;" alt="Typing SVG" />
 </p>
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓_Student-Year_4-blue?style=for-the-badge&color=1E4C9A" />
-  <img src="https://img.shields.io/badge/🎯_Goal-Front--end_Developer-blue?style=for-the-badge&color=2B5BB5" />
-  <img src="https://img.shields.io/badge/📧_Email-3bbgowww@gmail.com-blue?style=for-the-badge&color=3A6BC7" />
-</div>
+
 
 ---
 
@@ -148,13 +144,14 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 **Email**: [your_email@example.com](mailto:your_email@example.com)  
-- 📝 **Schedule a coffee chat**: [Calendly link](#)  
-- 🐦 **DM me on [Twitter](#)**
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-Year_4-blue?style=for-the-badge&color=1E4C9A" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Front--end_Developer-blue?style=for-the-badge&color=2B5BB5" />
+  <img src="https://img.shields.io/badge/📧_Email-3bbgowww@gmail.com-blue?style=for-the-badge&color=3A6BC7" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views"/>
-</p>
+
+
 
 
 
