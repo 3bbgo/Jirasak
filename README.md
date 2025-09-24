@@ -18,6 +18,8 @@
 ## 🚀 About Me
 - 🎓 **Information Technology Student - Year 4**
 - 🎯 **Goal**: Becoming a **Front-end Developer**
+- 🌱 Currently Learning: Spring Boot, Postman, API Integration
+- 🛠 Daily Tech Stack: Java · Spring MVC · Spring Boot · MySQL · HTML · CSS · JavaScript
 - 📫 Reach me at: [3bbgowww@gmail.com](mailto:3bbgowww@gmail.com)
 
 ---
@@ -130,17 +132,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirasak-joy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&border_color=1E4C9A&bg_color=0D1117&title_color=1E4C9A&icon_color=3A6BC7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirasak-joy&layout=compact&langs_count=8&theme=tokyonight&border_color=1E4C9A&bg_color=0D1117&title_color=1E4C9A&text_color=C9D1D9"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirasak-joy&theme=tokyonight&border=1E4C9A&background=0D1117&ring=1E4C9A&fire=3A6BC7&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
@@ -149,6 +140,7 @@
   <img src="https://img.shields.io/badge/🎯_Goal-Front--end_Developer-blue?style=for-the-badge&color=2B5BB5" />
   <img src="https://img.shields.io/badge/📧_Email-3bbgowww@gmail.com-blue?style=for-the-badge&color=3A6BC7" />
 </div>
+
 
 
 
