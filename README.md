@@ -3,7 +3,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">สวัสดีครับ<img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> นายจิรศักดิ์ จันทร์ต๊ะริมปิง</h1>
 
 <p align="center">
   <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
@@ -71,3 +71,4 @@ _Add 2–4 projects max. Each row should fit on one screen._
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
+
