@@ -25,12 +25,10 @@
 
 | Domain     | Primary                                                                                                                                          | Comfortable                                                                                                                                           | Currently Exploring                                                                                                               |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Front-end  | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![JSP](https://img.shields.io/badge/JSP-9E7E38?logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)                                                            |
-| Back-end   | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)                                                             |
+| Front-end  | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![JSP](https://img.shields.io/badge/JSP-9E7E38?logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)                                                           |
+| Back-end   | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                          |
 | Data       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                                      | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)                                                                | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000)                                                              |
-| DevOps     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)                                            | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-
-
+| DevOps     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)                                            
 </div>
 
 ---
@@ -72,6 +70,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
+
 
 
 
