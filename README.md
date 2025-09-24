@@ -25,20 +25,6 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-<div align="center">
-💎 Primary Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql" alt="Primary Skills" />
-</p>
-🔧 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=eclipse,github,git" alt="Development Tools" />
-</p>
-📚 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Learning" />
-</p>
-</div>
 <table align="center">
   <tr>
     <th>🎯 Domain</th>
@@ -102,25 +88,29 @@
 
 ## 📌 Featured Projects
 
-🚔 Online Complaint Website
-📅 2025 - Present | 🏆 Final Year Project
-🎯 Description:
-ระบบแจ้งความออนไลน์สำหรับสถานีตำรวจ ที่ช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะได้อย่างสะดวก
-🛠️ Tech Stack:
+<div align="center">
+  <h3 style="color: #1E4C9A;">🚔 Online Complaint Website</h3>
+</div>
+📅 Timeline: 2025 - Present <br/>
+👥 Team: Individual Project <br/>
+🎯 Project Description:
+ระบบแจ้งความออนไลน์สำหรับสถานีตำรวจ ที่ออกแบบมาเพื่อช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะคดีได้อย่างสะดวกและรวดเร็ว
+🛠️ Technology Stack:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 ✨ Key Features:
 
 - 📝 Online Complaint Filing: ระบบแจ้งความออนไลน์ที่ใช้งานง่าย
 - 📊 Real-time Status Tracking: ติดตามสถานะคดีแบบเรียลไทม์
+- 👮‍♂️ Officer Management System: ระบบจัดการสำหรับเจ้าหน้าที่
 - 📱 Responsive Design: รองรับการใช้งานในทุกอุปกรณ์
-
-<br clear="both"/>
 
 ---
 
@@ -133,13 +123,28 @@
 ---
 
 ## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+<table align="center" style="border-collapse: collapse; border-radius: 10px; overflow: hidden;">
+  <tr style="background: linear-gradient(135deg, #1E4C9A, #3A6BC7); color: white;">
+    <th style="padding: 12px; text-align: left;">📧 Email</th>
+    <td style="padding: 12px;"><a href="mailto:3bbgowww@gmail.com" style="color: white; text-decoration: none;">3bbgowww@gmail.com</a></td>
+  </tr>
+  <tr style="background: rgba(30, 76, 154, 0.1);">
+    <th style="padding: 12px; text-align: left;">🌏 Location</th>
+    <td style="padding: 12px;">Thailand 🇹🇭</td>
+  </tr>
+  <tr style="background: rgba(30, 76, 154, 0.05);">
+    <th style="padding: 12px; text-align: left;">💬 Languages</th>
+    <td style="padding: 12px;">Thai (Native) • English (Beginner )</td>
+
+</table>
+<br/>
+
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Student-Year_4-blue?style=for-the-badge&color=1E4C9A" />
-  <img src="https://img.shields.io/badge/🎯_Goal-Front--end_Developer-blue?style=for-the-badge&color=2B5BB5" />
-  <img src="https://img.shields.io/badge/📧_Email-3bbgowww@gmail.com-blue?style=for-the-badge&color=3A6BC7" />
+🙏 Thank you for visiting my profile! Profile Views 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E4C9A&height=100&section=footer&text=Thank%20you!&fontSize=16&fontColor=ffffff&animation=twinkling" />
 </div>
+
 
 
 
