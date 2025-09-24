@@ -105,7 +105,6 @@
 ## 📌 Featured Projects
 
 🚔 Online Complaint Website
-<img align="right" alt="Project Demo" width="300" src="https://via.placeholder.com/300x200/1E4C9A/FFFFFF?text=Online+Complaint+System" style="border-radius: 10px; margin: 10px;">
 📅 2025 - Present | 🏆 Final Year Project
 🎯 Description:
 ระบบแจ้งความออนไลน์สำหรับสถานีตำรวจ ที่ช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะได้อย่างสะดวก
@@ -156,5 +155,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views"/>
 </p>
+
 
 
