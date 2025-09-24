@@ -1,14 +1,21 @@
 <!-- Banner / Cover -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/181174780?s=200&v=4" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #1E4C9A;" />
+</div>
+<h1 align="center">
+  สวัสดีครับ 
+  <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> 
+  <br/>
+  <span style="color: #1E4C9A;">นายจิรศักดิ์ จันทร์ต๊ะริมปิง</span>
+</h1>
 <p align="center">
-  <img src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-1/441240599_1825321571223724_5545948837499481046_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHqHqMMT4LETDZ1SyQuUT6VboO9hga1iNlug72GBrWI2cQApdJ1AAN0DnjK30Mbku2SjthAb7jq6BX74MKgTP6N&_nc_ohc=_2JMp-opvYAQ7kNvwFSl8E9&_nc_oc=AdlXRvl-PyY-fFW0KTx9kbwuzHEXP6IQyzZhShZhEFy1-009jpARrU5eYqM5QR5La6Fjj5SrVwlFtExZoSno1-AL&_nc_zt=24&_nc_ht=scontent.fcnx3-1.fna&_nc_gid=6GiUxBwvFmUl24L6OgXNtw&oh=00_AfbtefLKDnheV-gdP2Sa4H0AiZFSFLe8Nkoq9smirW7blA&oe=68D9633A" alt="header image" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Front-end+Developer+🚀;Building+Clean+%26+Efficient+Systems+💡;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
 </p>
-
-<h1 align="center">สวัสดีครับ<img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> นายจิรศักดิ์ จันทร์ต๊ะริมปิง</h1>
-
-<p align="center">
-  <strong>Front-end Developer 🚀</strong><br/>
-  <em>Building Clean & Efficient Systems 💡 | Turning Ideas Into Reality ✨</em>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-Year_4-blue?style=for-the-badge&color=1E4C9A" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Front--end_Developer-blue?style=for-the-badge&color=2B5BB5" />
+  <img src="https://img.shields.io/badge/📧_Email-3bbgowww@gmail.com-blue?style=for-the-badge&color=3A6BC7" />
+</div>
 
 ---
 
@@ -19,35 +26,104 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 <div align="center">
-
-| Domain     | Primary                                                                                                                                          | Comfortable                                                                                          | Currently Exploring                                                                                                                               |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Front-end  | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&color=green) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&color=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=yellow) | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&color=purple)                                                           |
-| Back-end   | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white&color=green) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&color=red) |  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&color=purple) |  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&color=blue) |
-| Databases  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&color=cyan)    | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&color=red) 
-| Tools      |  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&color=black)  |    | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&color=green)
-
+💎 Primary Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql" alt="Primary Skills" />
+</p>
+🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=eclipse,github,git" alt="Development Tools" />
+</p>
+📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Learning" />
+</p>
 </div>
+<table align="center">
+  <tr>
+    <th>🎯 Domain</th>
+    <th>🚀 Primary</th>
+    <th>✅ Comfortable</th>
+    <th>📖 Currently Exploring</th>
+  </tr>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=java&logoColor=white" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🍽️ **Online Compliant Website**  
-**2025 - Present**
+🚔 Online Complaint Website
+<img align="right" alt="Project Demo" width="300" src="https://via.placeholder.com/300x200/1E4C9A/FFFFFF?text=Online+Complaint+System" style="border-radius: 10px; margin: 10px;">
+📅 2025 - Present | 🏆 Final Year Project
+🎯 Description:
+ระบบแจ้งความออนไลน์สำหรับสถานีตำรวจ ที่ช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะได้อย่างสะดวก
+🛠️ Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+✨ Key Features:
 
-**Tech Stack**:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-
-**Features**:
 - 📝 Online Complaint Filing: ระบบแจ้งความออนไลน์ที่ใช้งานง่าย
 - 📊 Real-time Status Tracking: ติดตามสถานะคดีแบบเรียลไทม์
+- 📱 Responsive Design: รองรับการใช้งานในทุกอุปกรณ์
+
+<br clear="both"/>
 
 ---
 
@@ -61,8 +137,11 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirasak-joy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&border_color=1E4C9A&bg_color=0D1117&title_color=1E4C9A&icon_color=3A6BC7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirasak-joy&layout=compact&langs_count=8&theme=tokyonight&border_color=1E4C9A&bg_color=0D1117&title_color=1E4C9A&text_color=C9D1D9"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirasak-joy&theme=tokyonight&border=1E4C9A&background=0D1117&ring=1E4C9A&fire=3A6BC7&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -77,4 +156,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views"/>
 </p>
+
 
