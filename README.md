@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://www.pinterest.com/pin/76772368642746992/" alt="header image" />
+  <img src="[ออกแบบ Banner มาใส่ตรงนี้เลย](https://www.pinterest.com/pin/161848180351585211/)" alt="header image" />
 </p>
 
 <h1 align="center">สวัสดีครับ<img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> นายจิรศักดิ์ จันทร์ต๊ะริมปิง</h1>
